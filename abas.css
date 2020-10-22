@@ -1,27 +1,11 @@
-
-
-
-
-body{
-    background-color: white;
-}
-.all{
+.buttons{
     text-align: center;
-    background-color: #c1c1c1;
+    margin: -17px 0px;
 }
+
 button{
-    width: 48px;
-    height: 47px;
-    border-radius: 76px;
-    margin-top: 6px;
-    background-color: #333;
-}
-.towbutnt{
-    width: 103px;
-}
-button:hover{
-    background-color: #424040;
-}
-nav{
-    color: white;
+    border-color: black;
+    color: black;
+    font-size: 19px;
+    border-radius: 23px;
 }
