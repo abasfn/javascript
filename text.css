@@ -1,0 +1,38 @@
+.buttons{
+    text-align: center;
+    margin: -17px 0px;
+}
+nav{
+    color: white;
+}
+button{
+    height: 33px;
+    width: 50px;
+    background: #007eff;
+    border-radius: 7px;
+
+}
+.box1{
+width: 500px;
+border-color: white;
+height: 23px;
+}
+.box2{
+    width: 500px;
+    border-color: white;
+    display: block;
+    height: 23px;
+
+}
+    .box3{
+        width: 500px;
+        border-color: white;
+        display: block;
+        height: 23px;
+}
+        .box4{
+            width: 500px;
+            border-color: white;
+            display: block;
+            height: 23px;
+}
