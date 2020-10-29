@@ -1,9 +1,11 @@
-function myfunk2(amalgar) {
-    var list = document.getElementById("row1");
+function remove(index) {
+    var item = document.getElementById("row1" + index);
+    item.remove();
+    }
+
+
+
     
     
-    list.removeChild(list.children[amalgar-1]);}
-
-
-
-
+    
+    
