@@ -1,0 +1,15 @@
+.my-slider-c {
+    height: 300px;
+    background-color: red;
+
+}
+
+.tns-item {
+    height: 200px;
+    background-color: green;
+}
+button{
+    width: 60px;
+    height: 34px;
+    background: green;
+}
