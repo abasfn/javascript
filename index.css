@@ -3,7 +3,7 @@
 body{
     background-color: blue;
 
-    background-image: linear-gradient(#00BCD4, blue);
+    background-image: linear-gradient( to bottom,#00BCD4, blue);
     
 }
 .box1{
@@ -18,7 +18,7 @@ body{
 }
 h1{
     text-align: center;
-    color: blue;
+    color: #1a2c9d;
     margin-bottom: 49px;
 }
 input{
@@ -33,7 +33,8 @@ input{
     height: 42px;
     border-radius: 30px;
     background: blue;
-    background-image: linear-gradient(#00BCD4, blue);
+    background-image:  linear-gradient(to right,  #0b38aa, #17c2de);
+   
     margin-left: 30px;
     border: none;
 }
@@ -54,4 +55,14 @@ input{
 }
 .input-container{
     margin-left: 36px;
+}
+.fa-user:before {
+    content: "\f007";
+    color: #bec2c1;
+}
+.fa-envelope-open-o:before{
+    color: #bec2c1;
+}
+form{
+    display: initial;
 }

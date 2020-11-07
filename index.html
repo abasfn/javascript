@@ -8,6 +8,9 @@
    
 <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" media="screen" href="index.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
     <script src="./index.js"></script>
 </head>
 
@@ -29,14 +32,22 @@
   <div class="input-container">
     <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
 
-    <input class="input-field"  id="input2" type="text" placeholder="Email" >
+
+    <form name="myForm" action="js_validation.php" onsubmit="return validateForm();" method="post">
+      <input type="text" name="email"> </form>
+    
   </div>
   <div class="input-container">
     <i class="fa fa-user icon"></i>
-    <input class="input-field" id="input3" type="text" placeholder="Pssword"  >
+   <input class="input-field" id="input3" type="text" placeholder="Pssword"  >
+ 
+
+
   </div>
 <button onclick="mfunk()" class="button1"><nav class="nav1">SIJN UP</nav></button>
 <button class="button2"><nav class="nav2">SIJN IN</nav2></button>
 </div>
+
+
 
 </html>
