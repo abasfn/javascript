@@ -1,0 +1,57 @@
+
+
+body{
+    background-color: blue;
+
+    background-image: linear-gradient(#00BCD4, blue);
+    
+}
+.box1{
+    background-color: white;
+    width: 381px;
+    height: 443px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    height: 20px;
+}
+h1{
+    text-align: center;
+    color: blue;
+    margin-bottom: 49px;
+}
+input{
+ 
+    border-color: white;
+    height: 30px;
+    border: none;
+    margin-bottom: 49px;
+}
+.button1{
+    width: 136px;
+    height: 42px;
+    border-radius: 30px;
+    background: blue;
+    background-image: linear-gradient(#00BCD4, blue);
+    margin-left: 30px;
+    border: none;
+}
+.button2{
+    float: right;
+    width: 136px;
+    height: 42px;
+    border-radius: 30px;
+    background: white;
+    margin-right: 30px;
+    border: none;
+}
+.nav1{
+    color: white;
+}
+.nav2{
+      color: #000000a6;
+}
+.input-container{
+    margin-left: 36px;
+}
