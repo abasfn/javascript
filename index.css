@@ -1,0 +1,177 @@
+
+.icon{ 
+    width: 202px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #b1b1b3;
+    
+    margin-top: 97px;
+    height: 194px;
+    border-radius: 123px;
+    margin-bottom: 30px;
+
+}
+
+i{
+
+     
+  
+ color:    white;
+text-align: center;
+} 
+.fa{
+   
+        
+    background-color: #0a7cf9;
+  
+    position: relative;
+    border-radius: 76px;
+    font-size: 73px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    display: block;
+    top: 20px;
+}
+
+.fa-user:before{
+    content: "\f007";
+    position: relative;
+    top: 41px;
+}
+.boxs2{
+    width: 633px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+.paragraf{
+    margin-left: 6px;
+    display: inline;
+    font-size: 28px;
+    text-align: center;
+    color: #0a7cf9;
+}
+.left{
+    background: #bebebe;
+    height: 5px;
+    margin-top: 18px;
+    width: 160px;
+    float: left;
+    display: inline;
+    border-width: 5px; 
+ 
+}
+.right{
+    
+    margin-top: 18px;
+    width: 160px;
+    float: right;
+    display: inline; 
+    border-width: 5px;
+  
+    background: #bebebe;
+    height: 5px;
+}
+.boxs3{
+    margin-top: 26px;
+    width: 633px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 13px;
+}
+.input1{
+    width: 261px;
+    padding: 0px 21px;
+   
+  
+}
+.input2{
+    
+    width: 261px;
+    padding: 0px 21px;
+    float: right;
+    
+    }
+.allboxs{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+input{
+    border-radius: 26px;
+    height: 41px;
+    border-color: #b4b4b4;
+    border-width: 5px;
+    border-style: solid;
+    font-size: 17px;
+}
+.boxs4{
+    width: 633px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 13px;
+}
+.boxs5{
+    width: 633px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 13px;
+}
+.boxs6{
+    width: 633px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 13px;
+}
+.input3{
+    padding: 0px 21px;
+    width: 92%;
+
+}
+.boxs7{
+    width: 633px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 13px;
+}
+.nav2{
+    left: 10px;
+    display: inline;
+    position: relative;
+    top: -17px;
+}
+.paragraf2{
+    font-size: 25px;
+    color: #0a7cf9;
+    display: inline;
+}
+.moraba{
+    margin-left: 55px;
+ 
+    width: 22px;
+    
+}
+.button1{
+   
+    width: 259px;
+    height: 81px;
+    border-radius: 43px;
+    background: #0779fa;
+    margin-left: 30px;
+    border: none;
+   
+   
+    margin-left: 30px;
+    border: none;
+}
+.nav1{
+    color: white;
+    font-size: 27px;
+}
+.bottonall{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
