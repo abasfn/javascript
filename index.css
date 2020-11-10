@@ -1,0 +1,110 @@
+.all{
+    margin-top: 30px;
+    
+}
+
+
+
+.aks{
+    background-color: red;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+   
+    margin-top: 13px;
+
+}
+.image{
+    float: right;
+    width: 10%;
+}
+.row1{
+    float: right;
+    direction: rtl;
+    
+    width: 58%;
+}
+
+
+ul li{
+    list-style: none;
+    margin: 6px 0px;
+}
+
+    .farst{
+        font-size: 22px;
+        
+        
+        color: rgb(0, 26, 52);
+    }
+    .boxs1{
+        margin-left: 10px;
+        width: 15px;
+        height: 15px;
+        background-color: red;
+        float: right;
+        border-radius: 50%;
+    }
+    .second{
+        font-size: 18px;
+        color: rgb(0, 26, 52);
+    }
+    .thre{
+        margin-right: 29px;
+    }
+    .number1{
+        display: inline;
+        margin-right: 7px;
+    }
+    .fa-hourglass-end:before{
+        margin-right: 20px;
+    }
+    .paragraf2{
+        display: inline;
+        margin-right: 7px;
+        font-size: 18px;
+        color: rgb(0, 26, 52);
+    }
+    .fore{
+        font-size: 16px;
+        color: rgb(99, 113, 128);
+        margin-bottom: 15px;
+    }
+    a{
+        text-decoration: none;
+        font-size: 19px;
+        color: rgb(0, 105, 211);
+    }
+    .boxsleft{
+       
+        height: 200px;
+        width: 32%;
+        float: left;
+    }
+    .fa.fa-blind{
+        margin-top: 44px;
+        margin-left: 152px;
+    display: inherit;
+    text-align: center;
+    font-size: 23px;
+   
+    color: rgb(0, 190, 67);
+        
+  }
+  .paragraf4{
+    font-size: 16px;
+    
+    color: #071a48;
+    text-align: center;
+    margin-top: -32px;
+  }
+  button{
+    margin-top: -7px;
+    width: 100%;
+    background: #00be43;
+    border-radius: 17px;
+}
+.paragraf5{
+color: white;
+font-size: 20px;
+}
