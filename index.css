@@ -1,66 +1,77 @@
-.boxs{
+.card_product {
 
-width: 358px;
-height: 523px;
-margin-left: auto;
-margin-right: auto;
+    width: 358px;
+    height: 523px;
+    margin-left: auto;
+    margin-right: auto;
 }
-.topofboxs{
+
+.card_product .topofboxs {
     width: 100%;
     height: 199px;
 }
-.image{
-background-color: black;
-width: 100%;
-height: 90%;
+
+.card_product .image {
+    background-color: black;
+    width: 100%;
+    height: 90%;
 
 }
-.fa.fa-random{
-font-size: 21px;
-margin-top: 8px;
-margin-left: 10px;
-color: #333;
+
+.card_product .fa.fa-random {
+    font-size: 21px;
+    margin-top: 8px;
+    margin-left: 10px;
+    color: #333;
 
 }
-.titel1{
+
+.card_product .title1 {
     color: #333;
     font-size: 17px;
-    
+
 }
-h3{
+
+.card_product h3 {
     text-align: center;
 
 }
 
-.number{
-font-size: 17px;
-color: #ff266e;
-text-align: center;
+.card_product .number {
+    font-size: 17px;
+    color: #ff266e;
+    text-align: center;
 }
-.matn1{
+
+.card_product .matn1 {
     font-size: 17px;
     text-align: center;
     color: #999;
 }
-button{
+
+.card_product button {
     width: 160px;
     background-color: #83b735;
     border-radius: 8px;
 }
-.titelofbutoon{
+
+.card_product .titleofbutoon {
     font-size: 15px;
     color: white;
 }
-.fa.fa-search{
+
+.card_product .fa.fa-search {
     color: #333;
     font-size: 26px;
     margin-right: 32px;
 }
-.fa.fa-heart-o{
+
+.card_product .fa.fa-heart-o {
     color: #333;
     font-size: 26px;
     margin-left: 32px;
 }
-.row1{
+
+.card_product .row1 {
     margin-left: 26px;
 }
