@@ -1,0 +1,66 @@
+
+ul li{
+    list-style: none;
+    margin: 26px 0px;
+  
+}
+.free{
+    margin-left: 33px;
+}
+a{
+    color: #666;
+    font-size: 18px;
+}
+.box1{
+    width: 300px;
+    margin: auto;
+    background-color: white;
+}
+.fa{
+    color: #666;
+}
+.icone{
+    margin-left: 16px;
+}
+
+
+.fa.fa-cog{
+    font-size: 18px;
+}
+.fa.fa-chrome{
+    font-size: 18px;
+}
+.fa.fa-scissors{
+    font-size: 18px;
+}
+.fa.fa-file-text-o{
+    font-size: 18px;
+}
+.fa.fa-twitch{
+    font-size: 18px;
+}
+.fa.fa-sticky-note{
+    font-size: 18px;
+}
+.fa.fa-star{
+    font-size: 18px;
+}
+
+.fa.fa-reply{
+    font-size: 18px;
+}
+.fa.fa-university{
+    font-size: 18px;
+}
+.fa.fa-meanpath{
+    font-size: 18px;
+}
+.fa.fa-bath{
+    font-size: 18px;
+}
+.fa.fa-university{
+    font-size: 18px;
+}
+.fa.fa-file{
+    font-size: 18px;
+}
