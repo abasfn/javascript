@@ -1,10 +1,14 @@
 var ctx = document.getElementById('myChart');
 var myChart = new Chart(ctx, {
+
+    
     type: 'bar',
     data: {
         labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
         datasets: [{
+            
             label: '# of Votes',
+            
             data: [12, 19, 3, 5, 2, 3],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
@@ -25,13 +29,28 @@ var myChart = new Chart(ctx, {
             borderWidth: 1
         }]
     },
-    options: {
+    options: {  
+  
         scales: {
             yAxes: [{
                 ticks: {
+                    
                     beginAtZero: true
                 }
             }]
+        }
+    }
+
+    
+});
+
+var chart = new Chart(ctx, {
+    type: 'line',
+    data: data,
+    options: {
+        title: {
+            display: true,
+            text: 'eeuifheuifhuiewhfuhweuf'
         }
     }
 });
