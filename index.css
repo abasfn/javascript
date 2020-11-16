@@ -29,7 +29,7 @@
     color: #fa6400;
 }
 .row2{
-    float: left;
+   
     margin-top: 32px;
 }
 .farst{
@@ -80,7 +80,7 @@ font-size: 16px;
     font-size: 16px;
 }
 .row3{
-    / margin-left: -29px; /
+     margin-left: -29px; 
 }
 .text-on-the-right{
     float: right;
@@ -103,13 +103,13 @@ font-size: 16px;
     text-align: center;
 }
 .icone li.child-icone{
-    float: left; 
+    
      margin: 0px 27px; 
     flex: 1;
   
 }
 .icone2 li.child-icone2{
-    float: left;
+   
     margin: 0px 14px;
     color: #8b859c;
 }
