@@ -1,8 +1,9 @@
 .mainboxs{
     width: 400px;
     margin: auto;
+    / height: 600px; /
+    padding: 8px 24px;
     
-    height: 600px;
 }
 .titel{
     font-size: 20px;
@@ -79,7 +80,7 @@ font-size: 16px;
     font-size: 16px;
 }
 .row3{
-    margin-left: -29px;
+    / margin-left: -29px; /
 }
 .text-on-the-right{
     float: right;
@@ -90,15 +91,22 @@ font-size: 16px;
     color: #8b859c;
     float: right;
   
-        margin: 0px 53px;
+        margin: 0px 39px;
 }
 .boxs-icon{
     width: 100%;
     height: 100px;
 }
+.icone{
+    display: flex;
+    padding: 0;
+    text-align: center;
+}
 .icone li.child-icone{
-    float: left;
-    margin: 0px 27px;
+    float: left; 
+     margin: 0px 27px; 
+    flex: 1;
+  
 }
 .icone2 li.child-icone2{
     float: left;
@@ -123,4 +131,9 @@ font-size: 16px;
     font-size: 35px;
     color: #8b859c;
 
+}
+.line{
+    width: 100%;
+    height: 1px;
+background-color:#8b859c ;
 }
