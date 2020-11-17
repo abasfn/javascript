@@ -1,15 +1,16 @@
 .mainboxs{
     width: 400px;
     margin: auto;
-    / height: 600px; /
-    padding: 8px 24px;
+    border-style: solid;
+    border-color: coral;
+
     
 }
 .titel{
     font-size: 20px;
     margin-left: 6px;
     display: inline;
-    color: #8b859c;
+    color: #524a66;
 }
 .profile{
     border-width: 2px;
@@ -104,7 +105,7 @@ font-size: 16px;
 }
 .icone li.child-icone{
     
-     margin: 0px 27px; 
+     
     flex: 1;
   
 }
