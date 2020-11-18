@@ -1,0 +1,55 @@
+.Footer_box{
+   direction: rtl;
+   
+    width: 400px;
+    border-style: solid;
+    margin: auto;
+}
+.Footer_box .titel1{
+    font-size: 20px;
+    margin-right: 40px;
+}
+
+.Footer_box .farst-ul{
+   
+}
+.Footer_box .farst-ul li.farst-li{
+    list-style: none;
+    margin: 21px 0px;
+    font-size: 17px;
+    color: #737373;
+}
+.Footer_box .titel2{
+    font-size: 20px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+.Footer_box .second-ul li.second-li{
+list-style: none;
+margin: 21px 65px;
+}
+.image{
+    width: 40px;
+    height: 50px;
+    background-color: grey;
+    display: inline;
+
+}
+.paragraf{
+    display: inline;
+    font-size: 18px;
+    color: #333;
+}
+.Footer_box .second-ul li.second-li:after {
+    content: "";
+    width: 40px;
+    height: 50px;
+    background: #272228;
+    float: right;
+    margin: -58px -64px;
+}
+.praice{
+    display: inline;
+    color: #fe266d;
+    font-size: 16px;
+}
