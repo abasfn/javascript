@@ -1,0 +1,105 @@
+
+.all{
+    direction: rtl;
+border-style: solid;
+   
+}
+
+.right{
+    margin-top: 50px;
+
+    margin-right: 20px;
+}
+.paragraf{
+    color: #1a1b1e;
+font-size: .9em;
+margin-top: 20px;
+
+}
+.row1{
+float: right;
+width: 40%;
+}
+.row2{
+    display : flex;
+    width: 60%;
+}
+.titel{
+    flex-direction: row;
+    flex-grow: 1;
+
+color: #33c3a9;
+font-size: 22px;
+}
+.boxs1{
+    width: 33.3%;
+}
+ul{
+    margin: 0px -23px;
+}
+ul li{
+      font-size: 17px;
+    color: #7d7d7d;
+    margin: 12px 0px;
+}
+.row3{
+    margin-right: 20px;
+  
+    width: 100%;
+}
+.titel2{
+  color:#7d7d7d ;  
+  font-size: 18px;
+}
+.fa.fa-youtube-play{
+    font-size: 30px;
+}
+.icones{
+margin-right:60px;
+}
+.row4{
+    width: 35%;
+    float: right;
+}
+.row5{
+    display: flow-root;
+    width: 65%;
+}
+.titel2{
+    color:#7d7d7d ;  
+    font-size: 18px;
+}
+.buttons{
+    margin-right: 23px;
+}
+.botton1{
+    background-color: #7e7e7e;
+width: 30%;
+height: 60px;
+}
+.botton2{
+    background-color: black;
+    width: 30%;
+    height: 60px;
+}
+.botton3{
+    
+    width: 30%;
+    height:60px;
+}
+.inside-butoon{
+    color: white;
+    font-size: 18px;
+}
+.inside-butoon2{
+    color:#7d7d7d ;  
+    font-size: 18px;
+}
+button{
+    border-radius: 6px;
+}
+.paragraf3{
+    font-size: 17px;
+    color:#7d7d7d ;  
+    margin-top:40px;
+}
