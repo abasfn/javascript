@@ -1,0 +1,155 @@
+.mainboxs{
+    width: 100%;
+    margin-top: 30px;
+}
+.boxs1{
+  
+    width: 90%;
+    margin: auto;
+   
+ 
+}
+.small-ul{
+   display: inline;
+    margin-left: -59px;
+  
+}
+.smal-li{
+    margin: 0px 24px;
+    float: right;
+   
+}
+ul li{
+    list-style: none;
+  
+}
+
+.boxs2{
+    width: 90%;
+    margin: auto;
+   
+    margin-top: 50px;
+}
+.titel1{
+    font-size: 64px;
+    color: gray;
+    display: inline;
+}
+.titel2{
+    font-size: 64px;
+    color: black;
+    margin: 0px;
+}
+.paragraf1{
+   font-size: 14px;
+   text-align: center;
+}
+.ul-imege1{
+    display: flex;
+    flex-grow: 1;
+    margin-left: -46px;
+}
+ul .li-imege1{
+    margin: 0px 10px;
+    flex-grow: 1;
+   
+    
+}
+.farst-ul{
+    display: flex;
+    margin-top: 65px;
+}
+.number1{
+    font-size: 24px;
+    display: inline;
+}
+.number2{
+    font-size: 24px;
+    display: inline;
+    color: gray;
+}
+.farst-li{
+    margin: 0px 32px;
+
+}
+.fa.fa-long-arrow-left{
+
+    font-size: 24px;
+}
+.fa.fa-long-arrow-right{
+    font-size: 24px;
+
+}
+.boxs6{
+    width: 100%;
+    float: left;
+    background-color:#2C2C2C;
+    
+    margin-top: 70px;
+}
+.last-ul{
+    margin-top: 20px;
+    height: 200px;
+    margin-left: 20px;
+}
+.fa.fa-user-circle{
+    font-size: 64px;
+}
+ul .lastli{
+    float: left;
+    margin: 0px 20px;
+}
+ul .list-li1{
+    color: #FFFFFF;
+    margin: 16px 0px;
+    font-size: 14px;
+}
+.fa.fa-question-circle{
+    font-size: 20px;
+margin-right: 20px;
+}
+.fa.fa-volume-control-phone{
+    font-size: 20px;
+margin-right: 20px;
+
+
+}
+.fa.fa-id-card-o{
+font-size: 20px;
+margin-right: 20px;
+
+}
+.fa.fa-youtube-play{
+    font-size: 20px;
+    color: #FFFFFF ;
+}
+.fa.fa-instagram{
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFFFFF ;
+}
+.fa.fa-linkedin-square{
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFFFFF ;
+}
+.fa.fa-pinterest-p{
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFFFFF ;
+}
+.list-li1-titel{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.line{
+    width: 100%;
+    border-color: rgba(200, 200, 200, 0.5);
+    border-width: 1px;
+    border-style: solid;
+}
+.paragraf7{
+    text-align: center;
+    font-size: 12px;
+    color: rgba(200, 200, 200, 0.5);
+}
