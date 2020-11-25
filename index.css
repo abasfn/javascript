@@ -1,0 +1,46 @@
+.mainboxs{
+ 
+    width: 90%;
+ 
+    margin: auto;
+}
+.boxs1{
+     width: 100%;
+   
+   
+ 
+}
+.small-ul{
+   display: inline;
+    margin-left: -59px;
+  
+}
+.smal-li{
+    margin: 0px 24px;
+    float: right;
+   
+}
+ul li{
+    list-style: none;
+  
+}
+.titel1{
+    font-size: 64px;
+    color: gray;
+    display: inline;
+}
+.titel2{
+    color: black;
+    font-size: 64px;
+    margin: 0px;
+}
+.boxs2{
+    float: left;
+    width: 50%;
+    background-color: red;
+}
+.one-imag{
+    width: 100%;
+    height: 435px;
+    margin-top: 52px;
+}
