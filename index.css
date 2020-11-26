@@ -1,0 +1,145 @@
+.mainboxs{
+ 
+    width: 90%;
+ 
+    margin: auto;
+}
+.boxs1{
+     width: 100%;
+   
+   
+ 
+}
+.small-ul{
+   display: inline;
+    margin-left: -59px;
+  
+}
+.smal-li{
+    margin: 0px 24px;
+    float: right;
+   
+}
+ul li{
+    list-style: none;
+  
+}
+.fa.fa-address-book{
+    margin-left: 38px;
+    font-size: 24px;
+}
+.titel1{
+    font-size: 64px;
+    color: gray;
+    display: inline;
+    margin: 0px 38px;
+}
+.titel2{
+    color: black;
+    font-size: 64px;
+    margin: 0px 38px;
+}
+.farst-ul{
+    width: 100%;
+}
+ul .farst-li{
+    width: 33.3%;
+    float: left;
+   
+  
+
+}
+.boxs6{
+    width: 100%;
+    float: left;
+    background-color:#2C2C2C;
+    
+    margin-top: 70px;
+}
+.last-ul{
+    margin-top: 20px;
+    height: 200px;
+    margin-left: 20px;
+}
+.fa.fa-user-circle{
+    font-size: 64px;
+}
+ul .lastli{
+    float: left;
+    margin: 0px 20px;
+}
+ul .list-li1{
+    color: #FFFFFF;
+    margin: 16px 0px;
+    font-size: 14px;
+}
+.fa.fa-question-circle{
+    font-size: 20px;
+margin-right: 20px;
+}
+.fa.fa-volume-control-phone{
+    font-size: 20px;
+margin-right: 20px;
+
+
+}
+.fa.fa-id-card-o{
+font-size: 20px;
+margin-right: 20px;
+
+}
+.fa.fa-youtube-play{
+    font-size: 20px;
+    color: #FFFFFF ;
+}
+.fa.fa-instagram{
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFFFFF ;
+}
+.fa.fa-linkedin-square{
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFFFFF ;
+}
+.fa.fa-pinterest-p{
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFFFFF ;
+}
+.list-li1-titel{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.line{
+    width: 100%;
+    border-color: rgba(200, 200, 200, 0.5);
+    border-width: 1px;
+    border-style: solid;
+}
+.paragraf7{
+    text-align: center;
+    font-size: 12px;
+    color: rgba(200, 200, 200, 0.5);
+}
+li .conteaner{
+    width: 100%;
+    margin: 0px 4px;
+ 
+   
+}
+@media (max-width: 1000px) {
+    .titel1 {
+     font-size: 30px;
+    }
+    .titel3{
+        font-size: 30px;
+    }
+    .titel2{
+        font-size: 30px;
+    }
+ .farstpragraf{
+     font-size: 14px;
+ }
+   
+}
