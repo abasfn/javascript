@@ -1,3 +1,8 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 .mainboxs {
     width: 100%;
     margin: auto;
@@ -42,26 +47,26 @@ ul li {
 }
 
 .main {
+    display: flex;
     width: 80%;
     margin: auto;
 }
 
 .main li {
     width: 33%;
-    float: left;
 }
 
 .footer {
     width: 100%;
-    float: left;
     background-color: #2C2C2C;
-    margin-top: 70px;
 }
 
 .footer-child {
+    max-width: 1400px;
     margin-top: 20px;
     height: 200px;
     margin-left: 20px;
+    margin: auto;
 }
 
 .footer-child .fa.fa-user-circle {
@@ -70,6 +75,7 @@ ul li {
 
 .footer-child .first-li {
     margin-left: -13px;
+    margin-top: 25px;
     float: left;
     width: 25%;
 }
@@ -122,11 +128,12 @@ li .conteaner {
     .farstpragraf {
         font-size: 14px;
     }
-    .main li {
-        width: 100%;
-        text-align: center;
+    .main {
+        flex-direction: column;
+        margin: 0px;
     }
     .footer-child .first-li {
+        text-align: center;
         width: 100%;
         margin-top: 23px;
     }
