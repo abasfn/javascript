@@ -48,7 +48,7 @@ ul li {
 
 .main {
     display: flex;
-    width: 80%;
+    width: 100%;
     margin: auto;
 }
 
@@ -68,6 +68,7 @@ ul li {
     margin-left: 20px;
     margin: auto;
 }
+
 
 .footer-child .fa.fa-user-circle {
     font-size: 64px;
@@ -130,7 +131,7 @@ li .conteaner {
     }
     .main {
         flex-direction: column;
-        margin: 0px;
+      
     }
     .footer-child .first-li {
         text-align: center;
@@ -145,5 +146,14 @@ li .conteaner {
     }
     .header li {
         margin: 10px 0px;
+    }
+    .main li{
+        width: 100%;
+    }
+    .alltitel{
+        text-align: center;
+    }
+    .header{
+        text-align: center;
     }
 }
