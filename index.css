@@ -1,0 +1,64 @@
+
+.fa.fa-address-book{  
+     margin-top: 8px;
+font-size: 25px;
+float: left;
+margin-left: 45px;
+} 
+.container{
+    text-align: center;
+}
+
+
+
+.line {
+    display: flex;
+    width: 100%;
+    border-color: #4e4b4b;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.paragraf {
+    text-align: center;
+    font-size: 12px;
+    color: rgba(200, 200, 200, 0.5);
+}
+
+.chaild-li-titel{
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+.chaild-li{
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 16px 0px;
+    
+}
+.fa.fa-user-circle{
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.fa.fa-question-circle, .fa.fa-volume-control-phone, .fa.fa-id-card-o, .fa.fa-youtube-play, .fa.fa-instagram, .fa.fa-linkedin-square, .fa.fa-pinterest-p {
+    font-size: 20px;
+    margin-right: 30px;
+}
+ul li{
+    list-style: none;
+}
+
+.col-md  {
+    background-color:#2C2C2C !important;
+    
+}
+.col-md{
+    text-align: center;
+}
+a{
+    margin: 0px 20px;
+}
+
+
