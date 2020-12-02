@@ -1,374 +1,121 @@
-.mainboxs{
-    width: 100%;
+
+
+.fa.fa-address-book{  
+    margin-top: 8px;
+font-size: 25px;
+
+
+} 
+.footer{
+    background-color:#2C2C2C
+}
+.line {
+   border-color: #4e4b4b;
+   border-width: 1px;
+   border-style: solid;
+}
+
+.paragraf {
+   text-align: center;
+   font-size: 12px;
+   color: rgba(200, 200, 200, 0.5);
+}
+
+.chaild-li-titel{
+   margin-top: 20px;
+   color: #FFFFFF;
+   font-size: 16px;
+}
+
+.chaild-li{
+   font-size: 14px;
+   color: #FFFFFF;
+   margin: 16px 0px;
    
 }
-.boxs1{
-  
-    width: 90%;
-    margin: auto;
-   
- 
+.fa.fa-user-circle{
+   font-size: 50px;
+   margin-left: 50px;
+   margin-top: 20px;
 }
-.small-ul{
-    float: left;
-    margin-left: -59px;
-  
-}
-.smal-li{
-    margin: 0px 24px;
-    float: right;
-   
+.fa.fa-question-circle, .fa.fa-volume-control-phone, .fa.fa-id-card-o, .fa.fa-youtube-play, .fa.fa-instagram, .fa.fa-linkedin-square, .fa.fa-pinterest-p {
+   font-size: 20px;
+   margin-right: 30px;
 }
 ul li{
-    list-style: none;
-  
+   list-style: none;
 }
 .farst-imag{
-    height: 789px;
-    float: right;
-    width: 100%;
-    margin-top: 4px;
+    width: 749px;
+height: 829px;
 }
-.fa.fa-address-book{
-    margin-top: 15px;
-    margin-left: 50px;
-    font-size: 20px;
-}
-.matn1{
-    height: 829px;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    width: 30%;
-}
-.titel1{
-
-    font-size: 47px;
-    text-align: center;
+.Button-below-the-photo{
+    width: 222px;
+    height: 72px;
+    color: #6f6d6d;
 }
 .icone{
-    margin-left: 70px;
-    margin-top: -43px;
+    margin-top: 27px;
 }
-.fa.fa-long-arrow-left{
-   
-    font-size: 20px;
-    color: gray;
-    }
-    .fa.fa-long-arrow-right{
-        margin-left: 20px;
-    font-size: 20px;
-    color: gray;
-    }
-    .boxs2{
-       
-        width: 50%;
-       float: left;
-        margin-top: 20px;
-    }
-  .second-imag{
-    
- 
-    width: 100%;
-    height: 259px;
-    }
-.thre-imag{
-    margin-bottom: 71px;
-    width: 100%;
-    height: 141px;
-    }
-    .for-imag{
-        margin-top: 47px;
-        width: 32%;
-        height: 333px;
-        margin-left: 20px;
-    }
-    .imgs{
-        float: left;
-        width: 35%;
-    }
-   .row1{
-       float: left;
-        width: 30%;
-    }
-    .row2{
-        width: 70%;
-    float: right;
-    }
-    .allimage{
-        width: 100%;
-        display: inline;
-        float: left;
-        margin-left: 59px;
-    }
-.titel3{
+.fa.fa-long-arrow-left,.fa.fa-long-arrow-right{
+    color: #6f6d6d;
+    font-size: 24px; 
+}
+.second-imag,.Third-imag,.fourth-imag{
+    width: 260px;
+}
+.second-imag{
+height: 265px;
+}
+.Third-imag{
+    height: 140px;
+
+}
+.fourth-imag{
+    height: 345px;
+    margin-top: 25px;
+
+}
+.sidebar-titel,.main-titel,.titel1{
     font-size: 64px;
-    margin-left: 32px;
     color: gray;
 }
-.paragraf5{
-    text-align: center;
-    margin-top: -37px;
-    margin-left: 32px;
+.sidebar-paragraf,.main-paragraf{
     font-size: 22px;
-    color: gray;
+    color:black ;
 }
-.mraba{
-    width: 100%;
-    height: 230px;
-}
-.paragraf9{
-    text-align: center;
-    margin-top: -37px;
-   
-    font-size: 22px;
-    color: gray;
-}
-.boxs3{
 
-width: 50%;
-
-float: right;
-margin-top: 20px;
-}
-.titel2{
-font-size: 64px;
-color: gray;
-    margin: 0px;
-}
-.paragraf2{
-  
-    font-size: 22px;
-}
-.farst-buton{
-    width: 19%;
-    margin-top: 9px;
-   
-    background-color: white;
-    height: 71px;
-    border-style: none;
-}
-.titel-of-buton{
-    font-size: 12px;
-    display: inline;
-    color: gray;
-}
-.boxs4{
-
-    width: 100%;
-    
-    float: left;
-   
-}
-.titel4{
-    font-size: 64px;
-    color: grey;
-    margin: 0px;
-    margin-left: 32px;
-}
-.shish-imag{
-    width: 46%;
-    height: 255px;
-    margin-left: 22px;
-    
-
-}
-.farst-image{
-    margin-top: 26px;
-     display: flex;
-}
-.second-image{
+.container{
     margin-top: 20px;
-     display: flex;
 }
-.seven-imag{
-    margin-left: 20px;
-    width: 20%;
-    height: 255px;
+
+.Seven-imeage{
+   width: 100%;
+height: 255px;
 }
-.eate-imag{
-    margin-left: 22px;
-    width: 40%;
-    height: 255px;
+
+.Button-below-the-photo2{
+    width: 222px;
+    height: 72px;
+    color: white;
+    margin-top: 10px;
+    background-color: #333333;
 }
-.nain-imag{
-    margin-left: 22px;
-    width: 32%;
-    height: 255px;
-}
-.second-buton{
-    float: right;
-    width: 19%;
-    margin-top: 9px;
-  
-    background-color: black;
-    height: 71px;
-    border-style: none;
-    margin-right: 32px;
-    margin-top: 21px;
-}
-.boxs5{
-    float: left;
-    width: 100%;
-    margin-top: 70px;
-    margin-left: 20px;
-   
-}
-.titel5{
-    font-size: 64px;
-    color: grey;
-    margin: 0px;
-    margin-left: 32px;
-   
-}
-.imeges-then{
-    direction: rtl;
-    float: right;
-    width: 65%;
-    margin-right: 20px;
-}
-.then-imag{
-    margin-top: 11px;
-    width: 100%;
-    height: 349px;
-}
-.boxs-input{
-    
-    width: 31%;
-  
-    
-}
+
 .small-input{
-    padding: 0px 20px;
     display: block;
-    width: 88%;
+    width: 391px;
     height: 46px;
     margin-top: 15px;
     background: #F3F3F3;
     border-style: none;
+    padding: 0px 20px;
 }
 .big-input{
+    width: 391px;
+    height: 147px; 
     border-style: none;
     padding: 0px 20px;
     background: #F3F3F3;
     margin-top: 15px;
-    display: block;
-    width: 88%;
-    height: 147px;
-}
-.paragraf6{
-    margin-left: 26px;
-    font-size: 14px;
-    color: black;
-}
-.thre-buton{
-    
-    width: 60%;
-    margin-top: 9px;
-  
-    background-color: black;
-    height: 71px;
-    border-style: none;
-    margin-right: 32px;
-    margin-top: 21px;
-}
-.boxs6{
-    width: 100%;
-    float: left;
-    background-color:#2C2C2C;
-    
-    margin-top: 70px;
-}
-.last-ul{
-    margin-top: 20px;
-    height: 200px;
-    margin-left: 20px;
-}
-.fa.fa-user-circle{
-    font-size: 64px;
-}
-ul .lastli{
-    float: left;
-    margin: 0px 20px;
-}
-ul .list-li1{
-    color: #FFFFFF;
-    margin: 16px 0px;
-    font-size: 14px;
-}
-.fa.fa-question-circle{
-    font-size: 20px;
-margin-right: 20px;
-}
-.fa.fa-volume-control-phone{
-    font-size: 20px;
-margin-right: 20px;
-
-
-}
-.fa.fa-id-card-o{
-font-size: 20px;
-margin-right: 20px;
-
-}
-.fa.fa-youtube-play{
-    font-size: 20px;
-    color: #FFFFFF ;
-}
-.fa.fa-instagram{
-    margin-left: 30px;
-    font-size: 20px;
-    color: #FFFFFF ;
-}
-.fa.fa-linkedin-square{
-    margin-left: 30px;
-    font-size: 20px;
-    color: #FFFFFF ;
-}
-.fa.fa-pinterest-p{
-    margin-left: 30px;
-    font-size: 20px;
-    color: #FFFFFF ;
-}
-.list-li1-titel{
-    color: #FFFFFF;
-    font-size: 16px;
-}
-.line{
-    width: 100%;
-    border-color: rgba(200, 200, 200, 0.5);
-    border-width: 1px;
-    border-style: solid;
-}
-.paragraf7{
-    text-align: center;
-    font-size: 12px;
-    color: rgba(200, 200, 200, 0.5);
-}
-@media (max-width: 1000px) {
-    .titel1 {
-     font-size: 30px;
-    }
-    .titel3{
-        font-size: 30px;
-    }
-    .titel4{
-        font-size: 30px;
-    }
-    .titel6{
-        font-size: 30px;
-    }
-    .titel5{
-        font-size: 30px;
-    }
-    .titel2{
-        font-size: 30px;
-    }
-    .paragraf5{
-        font-size: 18px;
-    }
-    .paragraf2{
-        font-size: 18px;
-    }
-   
 }
