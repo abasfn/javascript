@@ -3,12 +3,22 @@
     padding: 0px;
 }
 
-.fa.fa-address-book {
-    margin-top: 8px;
-    font-size: 25px;
-    float: left;
-    margin-left: 45px;
+.ul-menu{
+    display: flex;
+    flex-direction: row;
+    margin-left: -41px;
 }
+.li-menu{
+    list-style: none;
+    margin: 0px 31px;
+}
+
+.fa.fa-address-book{  
+    margin-top: 8px;
+font-size: 25px;
+
+margin-bottom: 20px;
+} 
 
 img {
     width: 614px;
@@ -49,10 +59,10 @@ img {
 }
 
 .paragraf {
-    margin-top: 6px;
-    text-align: center;
-    font-size: 12px;
-    color: rgba(200, 200, 200, 0.5);
+    padding: 16px 0px;
+   text-align: center;
+   font-size: 12px;
+   color: rgba(200, 200, 200, 0.5);
 }
 
 .chaild-li-titel {
@@ -79,13 +89,12 @@ img {
     margin-right: 30px;
 }
 .footer {
+    margin: auto;
     background-color: #2C2C2C;
     max-width: 1400px;
 }
 
-.col-md {
-    text-align: center;
-}
+
 a {
     margin: 0px 20px;
 }
