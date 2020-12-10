@@ -1,0 +1,159 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.tittel-navabar {
+    font-size: 29px;
+    margin-top: 8px;
+}
+
+nav a {
+    color: white !important;
+    font-size: 15px;
+    margin: 0px 12px;
+}
+
+nav {
+    background-image: linear-gradient(#EF2779, #EF2779);
+}
+
+.col-lg-4 {
+    margin-bottom: 56px;
+}
+
+.header {
+    background-image: linear-gradient(#EF2779, #7834BE);
+    padding: 10px 0px;
+}
+
+nav form {
+    display: flex;
+}
+
+.main {
+    margin-top: 150px;
+}
+
+form input {
+    width: 243px !important;
+    height: 54px;
+    border-radius: 32px !important;
+    padding: 0px 30px !important;
+    border-style: none !important;
+}
+
+form button {
+    margin-left: 10px;
+    color: #EF2779 !important;
+    background-color: white !important;
+    width: 116px !important;
+    height: 54px;
+    border-radius: 32px !important;
+    border-style: none !important;
+}
+
+.title-of-main {
+    color: white;
+    font-size: 55px;
+}
+
+.paragrag-of-main {
+    font-size: 16px;
+    color: white;
+}
+
+.button-of-main {
+    color: #38A3F1;
+    width: 236px;
+    height: 65px;
+    border-radius: 32px;
+    font-size: 22px;
+    border-style: none;
+}
+
+.titel-of-boton-header {
+    font-size: 22px;
+}
+
+.titel2-of-boton-header {
+    font-size: 47px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+.titel-of-paragraf {
+    font-size: 22px;
+}
+
+.paragraf-main {
+    font-size: 18px;
+}
+
+.row {
+    margin-bottom: 40px;
+}
+
+.imege {
+    display: inline-flex;
+}
+
+.big-input {
+    width: 353px;
+    height: 54px;
+    border-radius: 32px;
+    display: block;
+    margin: auto;
+    padding: 0px 30px;
+    border-style: none;
+}
+
+.big-button {
+    margin: auto;
+    margin-top: 10px;
+    color: white;
+    width: 353px;
+    height: 54px;
+    border-radius: 32px;
+    border-style: none;
+    display: block;
+    background-color: #EF2779;
+}
+
+.smal-titel-of-paragraf {
+    font-size: 12px;
+}
+
+.big-butoon2 {
+    background-color: #38A3F1;
+    width: 280px;
+    height: 65px;
+    font-size: 22px;
+    color: white;
+    border-radius: 32px;
+    border-style: none;
+    margin-top: 30px;
+}
+
+.smal-titel2-of-paragraf {
+    font-size: 22px;
+}
+
+@media (max-width: 860px) {
+    .titel2-of-boton-header {
+        font-size: 36px;
+    }
+    .container {
+        text-align: center;
+    }
+    .big-button {
+        width: 100%;
+    }
+    .big-input {
+        width: 100%;
+    }
+}
