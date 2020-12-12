@@ -142,8 +142,82 @@ form button {
 .smal-titel2-of-paragraf {
     font-size: 22px;
 }
+.boxs-input{
+    width:400px !important;
+    height: 430px;
+    background-color: white;
+   float: right;
+    padding: 40px 0px;
+}
+.small-input{
+    margin-top: 20px;
+width: 80%;
+height: 35px;
+display: block;
+margin: 30px auto;
 
-@media (max-width: 860px) {
+padding: 0px 20px;
+color: black;
+border-style: none;
+
+}
+.big-input2{
+    
+    color: black;
+
+    display: block;
+    border-style: none;
+    margin: 30px auto;
+   
+width:80%;
+height: 126px;
+padding: 0px 20px;
+}
+.send-button{
+    width: 94px;
+    height: 35px;
+    margin-left: 55px;
+    font-size: 16px;
+    color: white;
+    border-radius: 36px;
+    border-style: none;
+    background-color: #EF2779;
+}
+.information{
+    display: flex;
+    margin-top: 20px;
+}
+.fost-size12{
+    font-size: 12px;
+    color: white;
+}
+.fa.fa-envelope-o,.fa.fa-phone,.fa.fa-paper-plane-o{
+    margin-right: 19px;
+    font-size: 30px;
+    color: #EF2779;
+}
+.fa.fa-youtube-play{
+  
+    color: #EF2779;
+    font-size: 35px;
+}
+.fa.fa-video-camera,.fa.fa-wifi{
+    margin-left: 30px;
+    color: #EF2779;
+    font-size: 35px;
+}
+ul li{
+    list-style: none;
+}
+.chaild-li-titel{
+    margin: 20px 0px;
+    font-size: 22px;
+}
+.chaild-li{
+    margin: 20px 0px;
+    font-size: 15px;
+}
+@media (max-width: 1000px) {
     .titel2-of-boton-header {
         font-size: 36px;
     }
@@ -155,5 +229,17 @@ form button {
     }
     .big-input {
         width: 100%;
+        
+    }
+    .boxs-input{
+        float: none;
+        margin: auto;
+        width: 100% !important;
+    }
+    img{
+        margin: auto;
+    }
+    .next-boxs-input{
+        margin: auto;
     }
 }
